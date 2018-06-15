@@ -1,0 +1,2 @@
+ADAINDEX fica dando time limit exceeded ou nezoc problem, mas ele funciona perfeitamente, acho que ele teria que ser feito com arvore para não acontecer isso.
+Como na epoca o senhor tinha pedido para fazer com lista eu fiz em lista mesmo.
